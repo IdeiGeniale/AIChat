@@ -18,7 +18,7 @@ simple ai bot for Discord.
 13. Click "New"
 14. Click "Web Service"
 15. select the AIChat repo
-16. configure
+16. configure (Build command: ./ $ pip install -r requirements.txt, Start command: leave blank)
 17. scroll to "Enviorment Variables"
 18. Add these ENVs: GEMINI_API_KEY, DISCORD_TOKEN
 19. Click "Deploy Web service"
